@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\System.BitConverter1\System.BitConverter1\bin\Debug\System.BitConverter1.exe.config
+C:\Users\PC\source\repos\System.BitConverter1\System.BitConverter1\bin\Debug\System.BitConverter1.exe
+C:\Users\PC\source\repos\System.BitConverter1\System.BitConverter1\bin\Debug\System.BitConverter1.pdb
+C:\Users\PC\source\repos\System.BitConverter1\System.BitConverter1\obj\Debug\System.BitConverter1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\System.BitConverter1\System.BitConverter1\obj\Debug\System.BitConverter1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\System.BitConverter1\System.BitConverter1\obj\Debug\System.BitConverter1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\System.BitConverter1\System.BitConverter1\obj\Debug\System.BitConverter1.exe
+C:\Users\PC\source\repos\System.BitConverter1\System.BitConverter1\obj\Debug\System.BitConverter1.pdb
